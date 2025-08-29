@@ -1,6 +1,8 @@
 # videoRentalShop_Oracle
 Oracle, 윈폼 기반 매장ASP 서비스 프로그램
 
+작업기간: 2021.11 - 2021.12
+
 
 [사용자]
 
